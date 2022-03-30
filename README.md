@@ -31,6 +31,6 @@ P.S: You can edit the ApplyFanStoreProfile method to support your motherboard an
 
 2. Load your profile or make your fan settings custom
 
-3. Copy "C:\Program Files (x86)\ASUS\AsusFanControlService\2.01.11\FanStore.xml"
+3. Copy "C:\Program Files (x86)\ASUS\AsusFanControlService\2.01.13\FanStore.xml"
 
-Repeat steps for your silent and gaming profiles.  "\2.01.11\" may change, use the directory that named latest version in the "AsusFanControlService"
+Repeat steps for your silent and gaming profiles.  "\2.01.13\" may change, use the directory that named latest version in the "AsusFanControlService"

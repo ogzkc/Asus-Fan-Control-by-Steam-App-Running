@@ -16,7 +16,7 @@ namespace GamingFanControl
 
         private const int INTERVAL_FAN_CHECK = 20 * 1000; // 20 secs (it may be reduced, wouldnt affect performance)
 
-        private const string ASUS_FANCONTROL_DIR = @"C:\Program Files (x86)\ASUS\AsusFanControlService\2.01.11"; // asus fancontrol directory (your directory and version may be different)
+        private const string ASUS_FANCONTROL_DIR = @"C:\Program Files (x86)\ASUS\AsusFanControlService\2.01.13"; // asus fancontrol directory (your directory and version may be different)
 
         private Dictionary<FanProfile, string> fanstoreProfileFilenames = new Dictionary<FanProfile, string>() // fanstore file mapping  (you can reach your fanstore.xml file at asus fancontrol directory, when you apply a profile that xml will be updated)
         {
